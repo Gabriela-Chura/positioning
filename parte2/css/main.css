@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.uno{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: #ee3e64;
+    left: 30px;
+}
+
+.dos{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: #44accf;
+    right: 60px;
+}
+
+.tres{
+    height: 200px;
+    width: 200px;
+   position: relative;
+    background-color: #b7d84b;
+    bottom: 36px;
+}
+
+/* Pon tu código css aqui */

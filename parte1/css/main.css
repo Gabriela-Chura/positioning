@@ -1,0 +1,27 @@
+/* Pon tu código css aqui */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.uno{
+    height: 200px;
+    width: 200px;
+    position: static;
+    background-color: #ee3e64;
+}
+
+.dos{
+    height: 200px;
+    width: 200px;
+    position: static;
+    background-color: #44accf;
+}
+
+.tres{
+    height: 200px;
+    width: 200px;
+    position: static;
+    background-color: #b7d84b;
+}

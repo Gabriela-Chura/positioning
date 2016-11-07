@@ -1,0 +1,42 @@
+/* Pon tu código css aqui */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.uno{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: #ee3e64;
+    left: 0;
+    top: 0;
+}
+
+.dos{
+    height: 200px;
+    width: 200px;
+     position: relative;
+    background-color: #44accf;
+    left : 800px;
+    top: 0;
+    
+}
+
+.tres{
+    height: 200px;
+    width: 200px;
+     position: absolute;
+    background-color: #b7d84b;
+    left: 0;
+    bottom: 0;
+}
+
+.cuatro{
+    height: 200px;
+    width: 200px;
+    position:relative;
+    background-color: yellow;
+    left: 800px;
+    bottom: 0;
+}
