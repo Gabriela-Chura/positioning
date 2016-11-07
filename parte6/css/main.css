@@ -14,7 +14,7 @@ body{
 .dos{
     height: 200px;
     width: 200px;
-    position: relative;
+    position: absolute;
     background-color: #44accf;
     left: 200px;
 }
