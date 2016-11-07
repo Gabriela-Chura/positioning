@@ -7,36 +7,42 @@ body{
 .uno{
     height: 200px;
     width: 200px;
-    position: absolute;
+    position: static;
     background-color: #ee3e64;
-    left: 0;
-    top: 0;
+    
+    
 }
 
 .dos{
     height: 200px;
     width: 200px;
-     position: relative;
+     position: absolute;
     background-color: #44accf;
-    left : 800px;
-    top: 0;
+    right : 0;
+    
     
 }
 
 .tres{
     height: 200px;
     width: 200px;
-     position: absolute;
+     position:absolute;
     background-color: #b7d84b;
     left: 0;
-    bottom: 0;
+   bottom: 0;
+    
+    
 }
 
 .cuatro{
     height: 200px;
     width: 200px;
-    position:relative;
+    position:absolute;
     background-color: yellow;
-    left: 800px;
+    right: 0;
     bottom: 0;
+    
 }
+
+
+
