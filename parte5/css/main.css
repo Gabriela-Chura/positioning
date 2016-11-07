@@ -19,6 +19,7 @@ body{
      position: absolute;
     background-color: #44accf;
     right : 0;
+    top: 0;
     
     
 }
@@ -29,7 +30,7 @@ body{
      position:absolute;
     background-color: #b7d84b;
     left: 0;
-   bottom: 0;
+     bottom: 0;
     
     
 }
